@@ -1,2 +1,2 @@
-# java
-My personal achievements
+# Java
+My Personal Achievements
