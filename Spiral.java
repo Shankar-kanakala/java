@@ -1,4 +1,4 @@
-//spiral
+//program to create N x N Spiral order matrix.
 import java.util.*;
 public class Spiral {
 	public static void main(String[] args) {
