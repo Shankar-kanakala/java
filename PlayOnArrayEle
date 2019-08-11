@@ -1,7 +1,7 @@
-Q. Read an array elements of size n. 
+/*Q. Read an array elements of size n. 
    if the input array is {6,6,4,7,5,4,4,3}, then modify the array to {4,6,3,5,7}. 
    If frequencies of some elements are the same, print them in Ascending order.
-Sol.
+Sol.*/
 import java.util.*;
 class Main {
   public static void main(String[] args) {
