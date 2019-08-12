@@ -1,4 +1,4 @@
-//Program to generate prime numbers using SieveofEratosthenes algorithm.
+//Program to generate prime numbers using Sieve of Eratosthenes algorithm.
 import java.util.*;
 public class SieveofEratosthenes
 {
