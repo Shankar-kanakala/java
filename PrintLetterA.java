@@ -18,7 +18,7 @@ class PrintLetterA {
         System.out.print(" ");
       }
       for(int l = width; l > 0; l--) {
-        if(l ==  width || l == 1)
+        if(l == width || l == 1)
           System.out.print("*");
         else {
           if(j == (n / 2) + 1)
